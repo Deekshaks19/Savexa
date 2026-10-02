@@ -1,0 +1,125 @@
+{
+  "model": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\models\\aidSense_multiclass.h5",
+  "negative_directory": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\evaluation\\negative_images",
+  "negative_images": 18,
+  "class_names": [
+    "Burn",
+    "Cut",
+    "Abrasions",
+    "Bruises",
+    "Laceration",
+    "Stab_wound",
+    "Animal_bite"
+  ],
+  "mean_maximum_probability": 0.4210246801376343,
+  "maximum_probability": 0.6816834211349487,
+  "accepted_counts_by_threshold": {
+    "0.5": 4,
+    "0.6": 3,
+    "0.7": 0,
+    "0.75": 0,
+    "0.8": 0,
+    "0.9": 0
+  },
+  "predicted_class_counts": {
+    "Burn": 4,
+    "Cut": 6,
+    "Abrasions": 1,
+    "Bruises": 7,
+    "Laceration": 0,
+    "Stab_wound": 0,
+    "Animal_bite": 0
+  },
+  "images": [
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203849.png",
+      "predicted_class": "Bruises",
+      "maximum_probability": 0.6398546695709229
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203853.png",
+      "predicted_class": "Bruises",
+      "maximum_probability": 0.27723217010498047
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203858.png",
+      "predicted_class": "Abrasions",
+      "maximum_probability": 0.3696282207965851
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203904.png",
+      "predicted_class": "Bruises",
+      "maximum_probability": 0.6078484058380127
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203910.png",
+      "predicted_class": "Cut",
+      "maximum_probability": 0.41601037979125977
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203916.png",
+      "predicted_class": "Cut",
+      "maximum_probability": 0.3701528310775757
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203928.png",
+      "predicted_class": "Cut",
+      "maximum_probability": 0.2801559269428253
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203952.png",
+      "predicted_class": "Cut",
+      "maximum_probability": 0.4995710849761963
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 203956.png",
+      "predicted_class": "Bruises",
+      "maximum_probability": 0.4688379466533661
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204001.png",
+      "predicted_class": "Burn",
+      "maximum_probability": 0.34330978989601135
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204031.png",
+      "predicted_class": "Cut",
+      "maximum_probability": 0.519160807132721
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204046.png",
+      "predicted_class": "Bruises",
+      "maximum_probability": 0.4724861681461334
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204106.png",
+      "predicted_class": "Burn",
+      "maximum_probability": 0.30766549706459045
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204116.png",
+      "predicted_class": "Burn",
+      "maximum_probability": 0.3350101709365845
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204126.png",
+      "predicted_class": "Bruises",
+      "maximum_probability": 0.2951144576072693
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204132.png",
+      "predicted_class": "Burn",
+      "maximum_probability": 0.35364627838134766
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204138.png",
+      "predicted_class": "Bruises",
+      "maximum_probability": 0.6816834211349487
+    },
+    {
+      "file": "cv\\aidsense\\evaluation\\negative_images\\Screenshot 2026-08-24 204145.png",
+      "predicted_class": "Cut",
+      "maximum_probability": 0.3410765528678894
+    }
+  ]
+}

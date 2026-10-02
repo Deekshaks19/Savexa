@@ -1,0 +1,149 @@
+{
+  "model": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\models\\aidSense_multiclass_augmented.h5",
+  "test_dataset": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset_clean\\test",
+  "test_images": 69,
+  "class_names": [
+    "Burn",
+    "Cut",
+    "Abrasions",
+    "Bruises",
+    "Laceration",
+    "Stab_wound",
+    "Animal_bite"
+  ],
+  "accuracy": 0.5652173913043478,
+  "macro_precision": 0.5391994478951001,
+  "macro_recall": 0.5458274807898867,
+  "macro_f1": 0.4990966083403059,
+  "per_class": {
+    "Burn": {
+      "precision": 0.5,
+      "recall": 0.6,
+      "f1-score": 0.5454545454545454,
+      "support": 10.0
+    },
+    "Cut": {
+      "precision": 0.5,
+      "recall": 0.25,
+      "f1-score": 0.3333333333333333,
+      "support": 8.0
+    },
+    "Abrasions": {
+      "precision": 0.7777777777777778,
+      "recall": 0.5384615384615384,
+      "f1-score": 0.6363636363636364,
+      "support": 13.0
+    },
+    "Bruises": {
+      "precision": 0.6521739130434783,
+      "recall": 0.7894736842105263,
+      "f1-score": 0.7142857142857143,
+      "support": 19.0
+    },
+    "Laceration": {
+      "precision": 0.4444444444444444,
+      "recall": 0.5,
+      "f1-score": 0.47058823529411764,
+      "support": 8.0
+    },
+    "Stab_wound": {
+      "precision": 0.4,
+      "recall": 1.0,
+      "f1-score": 0.5714285714285714,
+      "support": 4.0
+    },
+    "Animal_bite": {
+      "precision": 0.5,
+      "recall": 0.14285714285714285,
+      "f1-score": 0.2222222222222222,
+      "support": 7.0
+    }
+  },
+  "confusion_matrix": [
+    [
+      6,
+      0,
+      1,
+      2,
+      1,
+      0,
+      0
+    ],
+    [
+      2,
+      2,
+      1,
+      1,
+      2,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      7,
+      1,
+      2,
+      0,
+      1
+    ],
+    [
+      1,
+      2,
+      0,
+      15,
+      0,
+      1,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      0,
+      4,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      4,
+      0,
+      2,
+      1
+    ]
+  ],
+  "actual_counts": {
+    "Burn": 10,
+    "Cut": 8,
+    "Abrasions": 13,
+    "Bruises": 19,
+    "Laceration": 8,
+    "Stab_wound": 4,
+    "Animal_bite": 7
+  },
+  "prediction_counts": {
+    "Burn": 12,
+    "Cut": 4,
+    "Abrasions": 9,
+    "Bruises": 23,
+    "Laceration": 9,
+    "Stab_wound": 10,
+    "Animal_bite": 2
+  },
+  "inference_seconds_total": 2.984949799999413,
+  "inference_seconds_per_image": 0.043260142028976996,
+  "batch_size": 16,
+  "loss": "SparseCategoricalCrossentropy"
+}

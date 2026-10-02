@@ -1,0 +1,2293 @@
+{
+  "seed": 2026,
+  "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset",
+  "destination": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset_clean",
+  "classes": {
+    "Abrasions": {
+      "unique": 85,
+      "train": 59,
+      "validation": 13,
+      "test": 13,
+      "source_files": [
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (14).jpg",
+          "sha256": "1db2a6e9ad4100e56d9b890f9d30c8a8b2533aefab5262bb9937b271373d0c9a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (38).jpg",
+          "sha256": "83164f4952e641b31b066857bb168029377b9c4b1d3f0979440adb368f6ea496"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (80).jpg",
+          "sha256": "c8275d43fb065381d9e72987d8e48fa769f4d9ba5c5727c15e94d0ccce4ec5d6"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (20).jpg",
+          "sha256": "57f065ad62553c8fb7730db8558ef548ecdd2def58cd954c45ca448173aadb7d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (22).jpg",
+          "sha256": "1639ed74bae3c7d80d90d8b32271435b054457692d61dfc7645436df0faa5a20"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (56).jpg",
+          "sha256": "c4a6c61468d399f9d60c750bd55ced5d16e4e8396d9cf7ebbbf077c3a38a46f5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (8).jpg",
+          "sha256": "407075d66217375d49a0bb90e0c60c8237e506388cc101b43111831d1b585a4d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (42).jpg",
+          "sha256": "147f0d05e8de1bc7afed03e1c2470e8e9e7574506fce707db650648d8a59558e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (40).jpg",
+          "sha256": "67089afec1fff2b6f090203e5e3cf4415c80938c016ef313076effcb9fd33e16"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (55).jpg",
+          "sha256": "ab51a451e45719614ecc2a26c847dcfb0367a395aa47c5ec105a8d60debf8dd1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (64).jpg",
+          "sha256": "2951e2cf84784a2694a8fa0278bb76a5bcaf1151ad66c65293c236ef2fc131b0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (49).jpg",
+          "sha256": "0faf186da3b8c0708fc833d10e93b41d4efd60f7ab4d250e37653fb753762681"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (9).jpg",
+          "sha256": "df20a29e88ece9a53363af42f15728afadcca7b215135be04ce9a1c6562d1e45"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (72).jpg",
+          "sha256": "81c614c4a0e7e1a0187b6234fd366421a66f2de952a8b2cfc4b763ee88de42a1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (81).jpg",
+          "sha256": "6a538a57c9b2471e24852c5548351c055896ca90132f00a2c7c15b6f3498e5d1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (48).jpg",
+          "sha256": "eba640bd99a295872e58ce596142f0d7d1736bb10598368f265840b6b230c23d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (37).jpg",
+          "sha256": "7dc3c1059b264cff5305b60dd46345ce3ac709c0782d974fa7700e0627883299"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (7).jpg",
+          "sha256": "99d5f7d90d131205ca2b5f623cfb78f715aa3b6e8be73a970316f34271ac76d1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (15).jpg",
+          "sha256": "b0f7ee9c741bb8a563c4161b2f8fc651fa0fbf23c917ca7801d2d398da7da653"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (67).jpg",
+          "sha256": "f6392d52f3fc65705a7c1ba680db8e588af1697af947da0cf96d23c21b17b4a0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (57).jpg",
+          "sha256": "16910fd187dea00622975c3c530dec527a7c1e2e7e0605e4c02214eb9f7f0181"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (75).jpg",
+          "sha256": "f1a6a3eab49f8fadedb51d97f4ba1b6553f57f934ec66130dd71b652e554f21b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (24).jpg",
+          "sha256": "c0c705706267e634264c2735c333ec30803a062e87b058f3d8a97c18242d4fa0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (23).jpg",
+          "sha256": "fc48606c1f2a01d419dba14438190e2d7778a34f5ea544695af08705326c6f0a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (71).jpg",
+          "sha256": "68dcfbbab4cedd30107d0af45ce866b11d1adec1a1f23b6092a0158ef25ab55a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (85).jpg",
+          "sha256": "997402fe9a6c9451ac4732b2a7ec4dfcd028378dc17db975f8d59e19fecad2ef"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (36).jpg",
+          "sha256": "92ae20636e4f69ffdad9b4506660f041ee115d0537c8a4dccfeaddebc7ef1fc4"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (79).jpg",
+          "sha256": "a1a5392adee513900dce83c4bfe36a85888841c4a1bbe44b5dc098133b8f38a7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (52).jpg",
+          "sha256": "a6eeb8932a350418843f0502030fcc8688e5f04c1971e69ed2887ffadfcc2b0d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (77).jpg",
+          "sha256": "0faf52407d15b3cc6aadcfe3b74c457cda276c48edb0d7f818800f7502ee8375"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (63).jpg",
+          "sha256": "752fe2495a1eaf5c3455b8bb6f2984c80769616fff9e812b7d07214a4cd28142"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (16).jpg",
+          "sha256": "51081e03c495452763c9a3baea646971c33736d19d1fcc3cecc916e07d1738f7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (45).jpg",
+          "sha256": "a4be400e243d2bc174bf3761a5ec4df5c6ba946eb816314ee5d114f36dbf5fda"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (33).jpg",
+          "sha256": "f2f9b9da655e3f65bd791016a12dfd62679ee638e7f5c2ff6dc3abd5dff772cb"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (65).jpg",
+          "sha256": "43ea9f486365f2dc7c52c3164ab2cd58196085a5a72c90e062e3b356c6e07f50"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (82).jpg",
+          "sha256": "6c2df39803891160d2caf8abdc5a43be0b4aa4c59aef0bea9a0eac5fe66f2926"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (32).jpg",
+          "sha256": "646bd324b1bcadf335cee2686858f709ab485e50698262d3880b7f964428ec17"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (18).jpg",
+          "sha256": "3a0420fd520f112ed585b33b3cfdcdc1d6e44be1e5ecb0af38d961af29cb8b3d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (5).jpg",
+          "sha256": "f949207360e20ca882434bced997b7e7ad37cdcad8cc7f16a517ec9d909703f3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (26).jpg",
+          "sha256": "2d6d80d45ca08e8f6f42dfe5f9c18555e541c081588b9f5c9c1b4af23e5e007d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (70).jpg",
+          "sha256": "c32d8497e2f943c55837d34d0b10c1956fe511b0be636e9acb18474815ae280e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (43).jpg",
+          "sha256": "1b915d8c10720eb8e4e909bf7542d8346b563701db31c2fe81e56da9ef7b7755"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (66).jpg",
+          "sha256": "49276f3a8074837ac5edbe435ed467f5ce86e12078840cd2420968a8779051b5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (25).jpg",
+          "sha256": "74d5298abc017c5ec873626b394f645971569550e65bdb42d871de111ad3c3a3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (59).jpg",
+          "sha256": "2a08d487461fcae8af934368c3052606751cb0b437fd96e35a4f706f153499f7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (29).jpg",
+          "sha256": "5948f3909b0d395c04a19d3aaa63c758fdad1dd04e1d3803852325e31fa39509"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (51).jpg",
+          "sha256": "5e2f5a5c8860db482cc1426a8e6c91067f4cf8879d49f6d20f47917eafee4458"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (47).jpg",
+          "sha256": "10ac87042367b44adf627969d093f56710d38b87c938608612337dbb571a0fb2"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (39).jpg",
+          "sha256": "30307141142db3a814af3a17cc4b8a07c49446e838dd8cc537695a2ec04f6ed1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (12).jpg",
+          "sha256": "76a754e8e2258e704346b96264011a37f512750a6b0e8484c7a17eaf4a0b8530"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (84).jpg",
+          "sha256": "0ff21ea6243a591d1972025a141d1605a7e21dcb8a1451a897606cb438480b5f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (6).jpg",
+          "sha256": "f9b670e0d4e4604997ad14b05c94abcba5753580ede058f07bda2a86896ecfd2"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (44).jpg",
+          "sha256": "54af8d60a8cb733e433a6a06b764ccf6e8cad28864722b6d80d46e7f43e2aeef"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (27).jpg",
+          "sha256": "7b93a079a3e56d6e9065fd8c4e4a68b62508d5c91f955fb12f813ebe28fb1b3c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (60).jpg",
+          "sha256": "3e1f164669f412626f1d79dcc864b64aad588347915425168391d49ef5ba2797"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (19).jpg",
+          "sha256": "8aff4e52cdcf3432546ad0e03ee6c49d9c7290b18449f87bc5f90052f5151061"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (41).jpg",
+          "sha256": "f82d0778a90bd482c8e39e2bb85cf14f280f87ecae198ea1e3ab848c0149dfa1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (13).jpg",
+          "sha256": "31ba0b4dfa0d4db5c059ab8352482b29ec0c7729d21adf4038853029d21c8dbb"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (76).jpg",
+          "sha256": "28bc9ab5c13638464384f12675148a6da03bed72d92775d366605b62aed610c3"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (34).jpg",
+          "sha256": "3e41fa491a2e1156cf4ec500bb38aecdecc31e8aafe85a1ad2ef8dd8c51a4897"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (58).jpg",
+          "sha256": "f7f0ff2bbfb40aa44879049ee89c0c5f68550f8e251e6ef36167e9f57d844a25"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (53).jpg",
+          "sha256": "2f234f8d6b5274e8a75f57275c0208a2e3a98f3b08634b88c39001e1df702c8d"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (2).jpg",
+          "sha256": "713f286b0cb03d1de715cc93ab8e55c3dea663a056362c6fdd987dc75045fbd5"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (54).jpg",
+          "sha256": "ed8057026e3ceaef89591d866d9b3b04a37fa1a41a21b7b8b5de412d6916d0b2"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (74).jpg",
+          "sha256": "041e3191debd5f833c68b304bf958af7736e5c099198b9e7e3216247e390af15"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (83).jpg",
+          "sha256": "9cc686c1c117b9086f2f59235f921b05375913f39c2793338df151743a9e15cf"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (68).jpg",
+          "sha256": "1dfecbd5cf73c8b48cb94006bff362da0e42c36f2617c225be81214f89a3b08c"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (10).jpg",
+          "sha256": "60ee359c8ca3a0b8f8289da0a60b369ca8fff05c36383c0e0f7973334d160366"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (35).jpg",
+          "sha256": "233ea57290d87e095b138ac446c54e3fe97561d177bdcf4a73a9d3f121134894"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (30).jpg",
+          "sha256": "1d6c5c5a47d9b13ca495b0267ed3acdf4ee26e8e5a8e71869ec3e9b080f4ffb6"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (46).jpg",
+          "sha256": "028765c43a62f926f559f92e5c143875b0ca4ce5fbca73cf5ab948c4fccf717b"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (69).jpg",
+          "sha256": "4fd63ce4eb6bc19be8cfeb61f4b6c0658264fcedc6208aa778e01a7cf3acc094"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (1).jpg",
+          "sha256": "9a92303b08814c9ebe663d403da9ca260a1e52d57e274db10666a1fe5d1ca7b6"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (17).jpg",
+          "sha256": "af60bb9879a117dfb2cff99158793a3bc7eab9d31cf6840f2888d647229ee591"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (78).jpg",
+          "sha256": "d543b5df79efd7755758dfc5547e5b4a52201db9f4d81c8c1d32eee4f76d43d5"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (4).jpg",
+          "sha256": "e673d3f59bafb204b52a8accbbce767f515d036b9574ed7d6119083353d2a4b2"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (62).jpg",
+          "sha256": "98dbf286665a05aa335e93bb678532bf39fab5a731449597492aca8f6f8ce5ba"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (3).jpg",
+          "sha256": "d7d9645dd4b689ce7d36d6e94aa89e0c90a6325ed8948b3066454c5c55d374c4"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (28).jpg",
+          "sha256": "f03d1d1afccac738f05343fde781eda14e2d6148b28e46fd041ac7e3f7134cd6"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Abrasions\\abrasions (61).jpg",
+          "sha256": "4900722c7833b2414bb82704741e1a3136ad69e4a46001168cb6b1b266022325"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (73).jpg",
+          "sha256": "21cddca7a08a61d0a0113a6278564e6b6a8185827bb01b175245ac5147080ba8"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (11).jpg",
+          "sha256": "b643c32546d69cbb1f6907319c715e7763a68a690ce78882911f81d39eb2245b"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (21).jpg",
+          "sha256": "b35ad756f4ae929ac5220aef2b71cb2c84dfe7adfc8e5f8647964d18262d7c33"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Abrasions\\abrasions (50).jpg",
+          "sha256": "6959a715f501e5c87dcd2208a0a646a7b7e1c7c3afed21f2173b1b033612cc05"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Abrasions\\abrasions (31).jpg",
+          "sha256": "28241c8f5fa04457552e9678ec392da261e1f6d0b224148f1b6629f349120013"
+        }
+      ]
+    },
+    "Animal_bite": {
+      "unique": 50,
+      "train": 35,
+      "validation": 8,
+      "test": 7,
+      "source_files": [
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180333.png",
+          "sha256": "8e9411460448ce4202a7b991f4811f5d7cac5c57e7451d4f1e98035be48c873a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180054.png",
+          "sha256": "92adc29f79617b9c4e1b5078bd515021d493f861039d9b3fe8e9822d9ee85017"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-23 175823.png",
+          "sha256": "848dba39884b4e13fffe9f29eb0a4c62f4e39d7e45c77a6dbae0b7d98e36726f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 175925.png",
+          "sha256": "b262267ee2e88440cd92b8c9a7bfcbfec5be437c9c43a2d272c269d0c4217dc7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180338.png",
+          "sha256": "058f6f991989fb169b908a9846c0890475f89ddfdf021cb07010e5d147fafcf6"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180844.png",
+          "sha256": "f13a1d1a77ca3a45a77002ca2fc5fe1e6bdb578c2f3b9be90f71db7b2a203a02"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180035.png",
+          "sha256": "fd738dcef8e6213f98605a77d03f6e5326494608b1dae42f024009391bf812e9"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180433.png",
+          "sha256": "08669b128d692cab08b02bfdebf5c96f67aed6b92f84ac81c9a384ea75f60b34"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201507.png",
+          "sha256": "021dc146de861dda1ac13afc6e9d7b2acb06c23f688c2d6799e41e6a81ff73ea"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201456.png",
+          "sha256": "1a03d5784d61addcd37ea7dbbc396a945dc48e838038481aa6116e085ac75cd5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180819.png",
+          "sha256": "77226b78f812bc0b10da7a263ed626dc8633e7f60d17704a2cd33cbbd567bb52"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180322.png",
+          "sha256": "423dfaaa779993bee0ab3c7e63d2b147b6b792c5c793d6b4b37478593b57deaa"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-02 201412.png",
+          "sha256": "8ff0b914e03de974d8c9fed917ea8d1d51e443ea74e5c992cb9f66df1a3ca929"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 175852.png",
+          "sha256": "fc2a14d64d00acd820ba4bb75bbbfc0c7ba885fd6495714c57d6dbd76ff34c69"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-02 201441.png",
+          "sha256": "ddb2817d7265a83cc5dffc1b1cafadc07fd57c52e07d42c26e5925c0bbde544a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201526.png",
+          "sha256": "cbc6221e13b2d2cef6c77da6fa8f3a589363f64c7e58089d8f4dac38cb7f3075"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-02 201428.png",
+          "sha256": "aa79653621a7b913945a8266b89f86ca35b1fbc72ba855771a33c5d8b9039461"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180712.png",
+          "sha256": "40dd07873e879dc32491056819828db52aa50ff8d72d30c109a0bb6d9147f6a8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-02 201349.png",
+          "sha256": "3ad8336c3f026635efb2f6d617bc2aa9a1fed1de1e8760f02e5cbf6157aa3b5e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180107.png",
+          "sha256": "72132221c7b05cf81689958964ac6afd97f3118c195e086b71d54855f94ef139"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180017.png",
+          "sha256": "b78ac2988ca00d5718fdaa0699a36dab45e3db7627b015996f37f13989fe3ef1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201531.png",
+          "sha256": "2bdbcffe5483cba2932f19c8d980b4e0c067e5a456d59638ee07f4cc69bab188"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180833.png",
+          "sha256": "f58a299ff76ab32c32baace5d01d56f8cb8c641ecec4cfdde551f5d4e78ad8a4"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201516.png",
+          "sha256": "0cf09a419c319ab6845f3df3ae9528a4490f1468e0a158173b304e627c8dbf46"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201541.png",
+          "sha256": "4cc1a5d3764b087468d29801df18222dde23f85a3c60d17d57be01c85f001c06"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180127.png",
+          "sha256": "4034df205a78c5d085b2c63d2c1f34057808b8b35a6aeea24bb6b8e03d33a732"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180729.png",
+          "sha256": "8dda9a6890ac2124021dab14ea127b18fe8e3e4623d2dafbaaab99ffbcad8b67"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201522.png",
+          "sha256": "e44dad1c97d09ecd8dbcf35a8e6ebcd454822668b858cff54d01ccee454acd99"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180405.png",
+          "sha256": "768df9b8d4d07b3104d10d03b5f7a1af66da7039784dcb1be5781e256e8078f5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180858.png",
+          "sha256": "744b007f7f1683b3cb416a5177500ad5ac2a366727a575d9f709c49219182106"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-02 201435.png",
+          "sha256": "159716eb24b84fdd95ea7b0573a1a212cd27795ab4d63cf0e7d5a7d65cbce634"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 175941.png",
+          "sha256": "9dd39485bcb867a397763738b07bf6f1fc94ffbf8a4657dd9c5fbf742d1e77f4"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-02 195957.png",
+          "sha256": "67c2e4b6439c6bb1c2eb9ab64e1fc0cbb4e9fc6e19d90237f1e8fa8e5824bb9f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180042.png",
+          "sha256": "6a0aaf978943f7cdba939aac3bdf51e59f16d090262152c3731c45882f7494c7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180720.png",
+          "sha256": "08f243606814497e071b7895a2460542644b7b2f95f66cfa86a8d137721b5f03"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180118.png",
+          "sha256": "5f0a905db5bc2e43b4835930fc0dfcb51f19eb5a13c463c418091a2b3167b863"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201502.png",
+          "sha256": "5b59b0b0a8b0315848d416de3a3d3b091dccae8fa775ac1ec5960f115b3fb9a7"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-23 175815.png",
+          "sha256": "cf1b4b45516d2595c9e2bd8e7b33f83df6c1bfaafdcb829aa7aab75199424de6"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180349.png",
+          "sha256": "70733ee55aee5aa3abd0b19cc6c959d5b8c820d9aeeac4ca54acef8def736e46"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180232.png",
+          "sha256": "eb9abcb4fc173919b5bf71ce63a93b2f065a01f22b1a6c1e9f986909aef5e81e"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-02 201449.png",
+          "sha256": "e3cd76512551d5d042b0b5f7bb2d8dec2e72a2f147ab9c64364ef77843690a7b"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-02 201400.png",
+          "sha256": "2f03d0ff882fa53403ce516704bf4c0433e24b40e1354a0e82c29dc62c9a5297"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180807.png",
+          "sha256": "d3fff22dc9ffdfdf2afa40375536271e72f5c816c6eda531e9ff18332396bd9f"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180252.png",
+          "sha256": "757be0551bfc54faf9d01debcc9ce911ea2bc7881e1d7cc9c27962ef02673960"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180706.png",
+          "sha256": "68119c1d673ef85c3c25390e14941bdfd330f2b798afaea3fecf0ff3b1212a25"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180425.png",
+          "sha256": "db4ac2fe3020b98c32c77a5a451932a5bd3399c99d244960452cb6d97d5d42e3"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Animal_bite\\Screenshot 2026-08-23 175836.png",
+          "sha256": "0008a85299b3e73c3112cee644126772fdc4b13764d609e38ac512a5e15f8940"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180908.png",
+          "sha256": "0af8f80f717559cba3e32106930ddf4ec808f306e11af7f7d0eaec7623a33169"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180343.png",
+          "sha256": "8ad8c9f03f1d298154fe968dd21a1bda6210dc7927f7fe19269d440a64d833cc"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Animal_bite\\Screenshot 2026-08-23 180442.png",
+          "sha256": "0bbfe9d4810f9498eb6227a7991891e59914c091b9eea8d5f96e3618c32c7f6c"
+        }
+      ]
+    },
+    "Bruises": {
+      "unique": 122,
+      "train": 85,
+      "validation": 18,
+      "test": 19,
+      "source_files": [
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (18).jpg",
+          "sha256": "da77b6adb0161b721e7c1e80e5835eec92bc456cd8a1d3c27bf5959b2df88c4a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (15).jpg",
+          "sha256": "0b1d58616e8949efab5e57dd011c9ced08ac61126bcfa03d1afeadaf5b87742d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (83).jpg",
+          "sha256": "b2e3f8cd8c4ca7ccba5c92ec70626ef8b2290ee005b0ba9cfc705e06864fa65d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (53).jpg",
+          "sha256": "926bfcb898c3dc3350896dac5282019840c3e8355ece790f410bdf7e84f43363"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (74).jpg",
+          "sha256": "14355fe048fbf924647ee377d12b5a61288fcb09b812b5d0db9256d8882e3491"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (42).jpg",
+          "sha256": "0cc261ca2193edc556ccc506794fab5f54286a0ed2567ba92ca49f31886ce026"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (80).jpg",
+          "sha256": "9805ed6182ea111e98f4029a1d9056baa6a567c2c3de79daaf91fb1ac768b6d9"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (25).jpg",
+          "sha256": "1b0884baaaf56ca03bb67f9354f4e76c995de61b181d82a827d93708d5d6200a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (116).jpg",
+          "sha256": "707ee561b8a370d664e9eacedb4aeed73d735c9e583a85bae6a61025481ceade"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (29).jpg",
+          "sha256": "8910eac96172c7bf09ceed5b3bf56a9cd6e051d3b105e656ffba3703dae250aa"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (93).jpg",
+          "sha256": "0ec32c0ef0f16b745f55495fce214b8916c4623945352dc5cf6a8c6b23a95b6e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (72).jpg",
+          "sha256": "c0094c6f11482b80ed26a6467d3d8c14373ba27713bf4f867913164c0c7b0d87"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (59).jpg",
+          "sha256": "aa7fdec8ed460048780f5017736b5ce07e815ae213a92ea9db13b595829c509c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (47).jpg",
+          "sha256": "af9a5ee82a197613311ee7e364f708428e67db1115c7bad7fb1b68705e5bdf5c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (104).jpg",
+          "sha256": "b8993489e942b47ceb0894958a113b40238ef5122827ff306a05316cfbb0ad54"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (5).jpg",
+          "sha256": "c6eda15e24267046dc7d46a7952c5afa03548cf01b18cbdec6696325049b1a00"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (46).jpg",
+          "sha256": "92f276793f589624d4a0038b2785c4bca65ca7fbeef8894c27db1158bf32f8dc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (91).jpg",
+          "sha256": "c4d2fb3b717698e75a9e94ac4f5c99c8de513b0339ee4322b7d6ba001d5144a8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (65).jpg",
+          "sha256": "880e1cfd6c1cb4bd600b85c223b6eb3ac4d32e50b1cf425214e47a5d361302f3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (82).jpg",
+          "sha256": "6eaf139b6bec68aff75d24210d01cc1619423f0e85d65a8cfcd47e20979195b5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (105).jpg",
+          "sha256": "b9a4d18ba4b1c911750ffb535c057283d3b799a577277497771e2c631f8cf169"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (113).jpg",
+          "sha256": "bcc2ce3c11529818f018e4d71b5f8e7ca6e0ac0e8153d72baacb085f3d3841bd"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (39).jpg",
+          "sha256": "48abb4967f1b2370453ef23927c4a71e2ecd27bd4cd0c35c5dede714fb69ec24"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (120).jpg",
+          "sha256": "2a40b8a83a0b6b6d0ff014763aa764bafeb8283ea7bc72f616fb762b08eb1477"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (35).jpg",
+          "sha256": "9abe84310cb578af0e60153d8cd326fe82f9f7f84535597ba1dfa5f5cd41b816"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (19).jpg",
+          "sha256": "7cebd7d093f56bcb94a4cb4ad891574e379b02eeb48fdbc37e53be80872cca92"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (1).jpg",
+          "sha256": "23ac48223e8d9caafcc8f4329a1c02ae09d1eece6084e8b97d9e6feae4011e5b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (40).jpg",
+          "sha256": "25548ace2f4633236b4a044bf1ecc77f60f821fa739a6156c839f09288fd6578"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (45).jpg",
+          "sha256": "8e84199ecd9bf23e58d11fc292b7084da73c9bab48ecc0b000a50937968537cc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (99).jpg",
+          "sha256": "41df8bcc0246af3d8deefae127d34cee41aaa826ee01f28b869a6ee7c8e5f892"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (76).jpg",
+          "sha256": "66e3873552eb0efc1db5773862c91e4a0a25d550f3ebfa2283ef2f0f5ecaa185"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (61).jpg",
+          "sha256": "30a04468104723e69e166ceb11c2eac6c2391a60be4933ca4718a6767c735be7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (4).jpg",
+          "sha256": "2fd9c0aadaf1f6629ff28fcd289aa57cdcea87ca2f1f3126e8e92edecf512cc6"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (32).jpg",
+          "sha256": "17341ac271087d65eb95f410246c59137f523163f77149e44d505b8822e88a0a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (14).jpg",
+          "sha256": "6e7c682e6fb2b1a846ec7e964e2acc965e2b17cc0455929495f5d300edd5c367"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (110).jpg",
+          "sha256": "1f7fea2383d19ab93bcedbe2b66e3334fc00c14971ff044d129c649f0282c004"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (58).jpg",
+          "sha256": "6c91cb9dc88968be2bc9cea44336a52b46f1574201767b360b65fbadeeb91cd5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (12).jpg",
+          "sha256": "1289c73240931cc62e39b68e0aeba9fdcc667ce2e33eff857190c99d48139db4"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (77).jpg",
+          "sha256": "2b705d95c291a05dcdf874a62ba6032ad7278d674bfafe1a7273fe14aa02dff3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (94).jpg",
+          "sha256": "a6a8761391b0bc3257ba0ed8ab65ebc9152952a1396310e955e9caab922fafaf"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (17).jpg",
+          "sha256": "b0ee28cdcc4c18faa8dce28826b6664666a510f4f7a6c7cadb01c6ac49faaf3e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (27).jpg",
+          "sha256": "580cdeaed58950345c04bf5caa7aab03f3a1e543e07248866949ba00a9cecfd8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (66).jpg",
+          "sha256": "b0a2f8bd8ea6bf1338686be9ecade26c74d41b2e569d172b5c8edde5f56f555f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (88).jpg",
+          "sha256": "173468cb2c65a8d19e69a620eed6bdc8eb667d8ce7ab66a749acd295355dd241"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (112).jpg",
+          "sha256": "71b38b34f67a9636c50e84430ea18b4d9533768d3d1d5f8135840af28215abac"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (37).jpg",
+          "sha256": "54ca1bfdc7991ef20f47b0ccdb7f5337b8283e96888405e811840b46423169e1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (21).jpg",
+          "sha256": "9f53c7c872905df47b93a8af691419744fc250255636f155cf1f7ab77ff9e28a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (98).jpg",
+          "sha256": "a5641fd34ee80cde3514c02a7cb30dbcfe78b920848fb6c34b293c6e56bcc1d3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (48).jpg",
+          "sha256": "ca99303aff7ea37903e5a3deb3b319641caaea7cd0bedfe166681e59cd6b4d42"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (44).jpg",
+          "sha256": "f16caaf732a791918285aae80f6450bbe1636a2f2e686a983b081b51608c48c0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (102).jpg",
+          "sha256": "0d7fa40fbe8f860622c1fee92cdf72a45c7c4df6593edfa7d715e237b8a04e0c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (100).jpg",
+          "sha256": "e824a8a5c9db6cf4b47cd48915ab31646d62e3e3f83630e509b2b8698e1823dc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (69).jpg",
+          "sha256": "1abee6e5b34b582ba7755289b13d487096c84ee7878f96e0bb2d9ebc8f646a6c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (2).jpg",
+          "sha256": "5bd22c3bb603af8a27c9b19321bb123d81d4f2c8e0f40f304b6214d59575e573"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (75).jpg",
+          "sha256": "42906fff868fd6f65f305538e029026553172ec74327ea7e43a9033cdc9d9188"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (87).jpg",
+          "sha256": "e48ca041ae0de2928d556d1233db392b1190fc7671d928a207a93a3d3b87c653"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (24).jpg",
+          "sha256": "930bd5853a3a7f4a23b03151294b1e6de327e9795fbd1cc7f035176a80bd1c7c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (67).jpg",
+          "sha256": "68245060efe9b828a23fe0137d90f21ea542ba9cd11c07da9402ca920647266f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (101).jpg",
+          "sha256": "81873493153f13804ffd0f6b64dd63a5c07be7010bd757ce0096e0b9033b85b7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (49).jpg",
+          "sha256": "a38b8076db061e846ed2e692cdd4e9cbae1c636db117bd2ee12b062502fba233"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (63).jpg",
+          "sha256": "3dc555d9f9a3c555e1a8d366968d12893e4a802559b4c34942c8407356bc3856"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (55).jpg",
+          "sha256": "6878324933b1d0f2b890412fb5c8448e1ac713b48a0420448eb14aed932e64ff"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (34).jpg",
+          "sha256": "7ed7bd0b9d5caf8504d32c245f01de4f562bf529a09fc7710da6b364158ac43b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (20).jpg",
+          "sha256": "f6f5288f02ba88a704cfc1810954668ddc344805fb54fbfdeb50073c29a2e4db"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (108).jpg",
+          "sha256": "30acc1bf082bcadea4f2dd425ebafc17e77f0a8a996a226cfc48ef74a74cf4ee"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (73).jpg",
+          "sha256": "f4e94178f86311dd79dc57d97e46b89362f21b4e6fefff8aeef2feff93663c82"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (64).jpg",
+          "sha256": "cc194c4a90673e752a2648d358f3f86f9e3878f4da99e43ef9a40dd7a32d8e83"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (62).jpg",
+          "sha256": "7c2eea6209d290cefb9d617cafd46abbed5c693491216ec317369ce774f2f3ef"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (95).jpg",
+          "sha256": "05084b3232466cea9e2acd5f8c017e5f0519b8fce560d4decdfd21972339f75d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (54).jpg",
+          "sha256": "486b7b43d842823ca885268e9574c6420eb9f6b4e05eb290ecc18a8bdcce5dbf"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (52).jpg",
+          "sha256": "3745311921792778f2b7f18b054a1cb6586f5ed0b2a2f73454d9755c96211a2f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (71).jpg",
+          "sha256": "ee7fcc4055bc4edb1e4169bc4cabe393baf71cf66a74e076a5eeec44ecfdd185"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (6).jpg",
+          "sha256": "f6513cd65a1bee24b871fc03548450cd18ac9640b817bb2152cf53f9715e93a2"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (81).jpg",
+          "sha256": "8d3c69c38cc6cacb1b685a6e379b8f7082af144d005085974920d0ac58f2a9da"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (11).jpg",
+          "sha256": "dd497871d27c3315b8171fafd1f1a0b6ee3e8f7d9cd2c970767aff10e9b70304"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (10).jpg",
+          "sha256": "ca9e7c4528357776d7d0f4396af2a32b5b69bcc0668d5712c4036582200d03b8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (3).jpg",
+          "sha256": "5e1cbfc47c0f8241d8920312d8300b50569adcd2c5f37d5702e3e6fb24c89cba"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (70).jpg",
+          "sha256": "ac0bdd8b99e7390529a4d4a4400e92235a20c63d20446f9a56d1cd7bd1e3fd3f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (7).jpg",
+          "sha256": "5dec068cabfb701b0ff705491768012b89a89d54d8ad7f2fb2089ee1c3fc42c7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (23).jpg",
+          "sha256": "66ce112cc8b1f5d3f12b0af0c27cd58567ead0f73094099bf220b176df0ada85"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (51).jpg",
+          "sha256": "6b0544879767f1c1c98efd9ab8bad52dc83d1e27ac6afd171bc0528f8f934738"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (89).jpg",
+          "sha256": "defd847688c47de42d83e0b63bf8404568bf588334e985122bc03c8793de6a07"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (86).jpg",
+          "sha256": "b289c4fccccf961ae06e5dd3d5c922b8436dffc356d6fa049ed86d0c473aafe2"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (92).jpg",
+          "sha256": "16fcedd1ea922e0072f57fe835b06395062065246cc0e226a00d1bf0b0aa42cd"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (56).jpg",
+          "sha256": "758c8d934a11d7d6c43366dcc9adc65607928e1d5fd45d1238de6236c071eb9f"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (107).jpg",
+          "sha256": "da630559fd3fcf1b6be49825a226139fed6ae8fb541fd09a57a130c5edcdddc5"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (96).jpg",
+          "sha256": "7ef73304eac0b366724599acaa61bb9a572a93c5b9efed6fb1c586e8282d3267"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (57).jpg",
+          "sha256": "6c787992b3bcb0b8d9a903fa6e92b0b8343dc616055151dae909aefb73e3727e"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (68).jpg",
+          "sha256": "33f504782c5193ae52ff4c8deab909daa2e5ee4b750659e4b956c290f6458523"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (36).jpg",
+          "sha256": "dec8ebb09f96cb7a0bb1eb6f80a0db0abf5c0700d8ef28bc421eff817d04498e"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (106).jpg",
+          "sha256": "4c4205a85ade806f600159f570ee999dc1d8df3c670afc6805a8a7b29b9ac10d"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (60).jpg",
+          "sha256": "1d0e730f55d45cba567d68149d54cbecf04a5fd79d7fbbce5bc6ea3af7eaf61c"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (115).jpg",
+          "sha256": "913e1500afc0da27a14154f89ad96921a3fa616c2e363c05c6127cbadcc5aff5"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (114).jpg",
+          "sha256": "78452664e50edda31b3d3acad220f62150a35f68c5b8b80dcd40e3208cbd6e5d"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (117).jpg",
+          "sha256": "50a3028493f74f06bc2a245c4833b7108f7ae761c34283b20d0d12fa080e9845"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (121).jpg",
+          "sha256": "cadc62ded7ea23f5ca0c0ecf5511dc6fb3337f1d9265f023e93f51f4138e9e64"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (31).jpg",
+          "sha256": "dd4a1b399155ff354b201c74909dbe40197be7f8e5e7ad3782743d67e7526b4a"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (122).jpg",
+          "sha256": "2fb6582c9ff9e8e3c0c05bc5a07447bc23aecb17da58ad81872cecc36ac41fe6"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (79).jpg",
+          "sha256": "c7973afc7228efea3e2752eaea9d90c0d9de82dc6b132624a4aa123a483793aa"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (85).jpg",
+          "sha256": "0e2219e88cbb4545b517dbcba6a640545f82d0bf0db94bcc7afb475fe605ed81"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (84).jpg",
+          "sha256": "891ee001c18b22faacb06bfd636236cc5b9a80d2fbe0508325555d9b9caf9a3f"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (118).jpg",
+          "sha256": "d8f81fecfd7df928b06838c9921b92f9cb5e8688e344be0fd8d8c7b705b0cfd9"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (111).jpg",
+          "sha256": "82ef49fa647908cade4b54debee36634df6ebd7dcd46d3df1fec2aae29ad9324"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (78).jpg",
+          "sha256": "8d7fc1102002abb0f48b3e23db0187a72b34f3062bbd3f651df2a2340c4bfa5f"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (8).jpg",
+          "sha256": "0158b13e2ff10b1671c7dc6c59dd57f0667bc02bb813885f8d7ee3870b7b6deb"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (103).jpg",
+          "sha256": "8426091a8825c6effd83cab04106fc03bcd9cc514c0b13e1dac4395f2777da96"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (38).jpg",
+          "sha256": "fa590b0208518661c7a71cf42dfac5e0fec1d2ac7db1493f994ac4d3f478ce3b"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (30).jpg",
+          "sha256": "94f4c5728b3b2edd7bee657e4ddd5fb4845451f33a7138d5a4ab97259ca3a550"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (22).jpg",
+          "sha256": "965bb3bfb41dd6c98234f467deb7aa46716ad8798edd312d54414bd98d9d025c"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (9).jpg",
+          "sha256": "547ccd67832bf557cb870c8a3fc47cf348004e7560a6df3f446f5a2344ba581f"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (109).jpg",
+          "sha256": "2e199b6ee92d414ddefd357bc6d735a8a674a7544297a081cb3070d33a8b1d3a"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Bruises\\bruises (119).jpg",
+          "sha256": "049350f0e1d20ba62cad83cc8b705c9aa892e42d917b2ef9ea4d9681121e1d4f"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (41).jpg",
+          "sha256": "a51dba9724430e282c304bdb74a613412103f3ea9d04c8db203318519790acd9"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (26).jpg",
+          "sha256": "2603db6e84626f75a2591574f4797b79c56e62f965bce9a7fbd69ab239791e22"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (13).jpg",
+          "sha256": "4230647c9e9f52699ceb466c3a320f8fd078568e4766fc7088c9581c37a4299b"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (50).jpg",
+          "sha256": "603bd11868fa647e97fa36a8215c27848a89024069a8eed7a66cb20cd867a9a8"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (28).jpg",
+          "sha256": "60c6088a411f69dd7aac8554305655447ad279aa7a14c0a3d2ab08a84eba6671"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (90).jpg",
+          "sha256": "0a9e1cc2c2989c6667b6684f8fa0e6c8f7ff1ef500a8bfdeeb5ff60e76ee262b"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (43).jpg",
+          "sha256": "b067c74943ebcdcecd1c3711a1e71539a20df10eba345fa8d238a4c0c3e050b1"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Bruises\\bruises (33).jpg",
+          "sha256": "2adf8496a66eec2402c637318b7f4f5b21ac26e1e4154db6862bc1af6219a18b"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (16).jpg",
+          "sha256": "d6892b84347dcd7ea5e7d6ca1324b92a2d54bad2e611abb906ad2396dbdd48ea"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Bruises\\bruises (97).jpg",
+          "sha256": "5f569c57c16255841f1cc6b4cad9c09e01e2f840ae204ac8e100cd4001e8a2c3"
+        }
+      ]
+    },
+    "Burn": {
+      "unique": 62,
+      "train": 43,
+      "validation": 9,
+      "test": 10,
+      "source_files": [
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (1).jpg",
+          "sha256": "9f8f246670cc29978ef2846ec789f5830ec6fdce075d90d4a9e79cb572fcbb7b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (43).jpg",
+          "sha256": "2edae1dedce3c7ad436da19d4ea8f3d76bdcc5eea0a9b0baba7658ce44f09d8b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\images.jpeg",
+          "sha256": "64402a9892f46aeb9644e5a16e47f2e5f2d5377aca18beedfd522e30ec937cb7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (7).jpg",
+          "sha256": "7a61f5ce78054512582b076f4ae753d20c9ea8e670541d83592f48220ce98d38"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (14).jpg",
+          "sha256": "9f15ea6ce19783fae2653e28a3ac7eb8cc07168114af571a2a232814a62d612d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (29).jpg",
+          "sha256": "39edfa0bc74eb6df9929687f750d5eef3cc887972adab4156b1201ed9bac2716"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (45).jpg",
+          "sha256": "5cf8f9cdaaffc6753d2147741a83bbbbbcbe95aced1bcd61ad1d43f0a61090d4"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (33).jpg",
+          "sha256": "558431bdc8baa17568e8da298e1bf293f968bcc7d7e06ffbdfb8e36bcb0997c1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (34).jpg",
+          "sha256": "b6983d7af99079e47f02d949dc57d1c3e4815e98a9063f2e734d3f1a47e461d9"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (59).jpg",
+          "sha256": "124d26aba79aa92536618614a94ebff7e7d0fe86ea0b5a8f720aa426aa097139"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (9).jpg",
+          "sha256": "a91e9833f6ce0eac3429b493ac0b0f85b8e0279069fb71ba40d4f09b9c5578e8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (46).jpg",
+          "sha256": "957ca95d7b694097419a81a0c75a61f0213a11543afe2d21f9b26b5ab52868b3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (23).jpg",
+          "sha256": "12273e66ceb6389569d692f3383f689e3496563808e4ddb704e861a72337265a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (58).jpg",
+          "sha256": "9fd74d580e15f33fb2bc7398b212197140e47357ca8dc22b19a6ab2896693632"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (53).jpg",
+          "sha256": "46e220444c4823cda43397c7adb0cb3cc771bb89013c086334c2513781d45ac6"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (3).jpg",
+          "sha256": "a3f8f7dc3a5e1442b3114f488ede7f505dfc22a3c82839b56d194ab894c84a37"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (27).jpg",
+          "sha256": "f809826369f974d141570b0c7a5a57438f4b46b49ae7f1214b93a999101b04ef"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (57).jpg",
+          "sha256": "a05a5d7411e90959b6cfd662b80350835fd71780ca66aead0127be14763049f0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (32).jpg",
+          "sha256": "66b8ba8152f44aa7ac895529ac16b92a127be2f394f8214801a44be579908914"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (54).jpg",
+          "sha256": "6c9b35855f324a0651ed6c963701b0be42465061bc0c95edeb5f18be5239030b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (56).jpg",
+          "sha256": "478795bda410285e17336ba3c1bca93a1a69122eff3378f5ec467b6d3d4f5c60"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (47).jpg",
+          "sha256": "cbcfeee1feedec748a3b631acc61f91540a8c5ee13a23ebfa325824f5cb67c92"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\images (1).jpeg",
+          "sha256": "29f70a9f2039449220191012036232dbd67cb3f2a2aa525a3f7476346c9fc86f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (21).jpg",
+          "sha256": "9a8e30f6e176fdc677a7558936b323a3a5407d7f0848bb11d9d7bb0cf580a1e3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (31).jpg",
+          "sha256": "5ee2e53f580a23d670510a6451aa21b0f7b51d013f40c653fff66977b633c0fc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (19).jpg",
+          "sha256": "0f4d1fdbd1aeafa7e63abe9665cb7a93686f418ddec0fc771151b68e7c00f080"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (10).jpg",
+          "sha256": "fb52fd3aefbf816f4fcfb64d0c005500ef2ce42c73dceabd4a59c508bc1f618f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (16).jpg",
+          "sha256": "eb1c16d01357f20a76eed722e127ea06a1d2d284ae93c3ccb7e50f2810c3d7c5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (40).jpg",
+          "sha256": "0244f6c4aafd56190e7ba88ff6118b19fa00d04a38383be2b1d62be34390ff42"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (49).jpg",
+          "sha256": "1de1d32f08f85849cb019e5f609b418ab844fdd2a48a10d434747dd4e5070ce2"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (51).jpg",
+          "sha256": "daeeb15a5ada31b47c59ff944ab1b3f12725328655bd1abee422a00282b1cebc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (37).jpg",
+          "sha256": "09ec5869e099c0d95c55395e55cf5ec9e642716fbcf8e1047f49f3ae56e6f40e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (13).jpg",
+          "sha256": "38d1fdeaa53cac31586b20e462b5b68207e8d2e108e636047e0bb65582d41d3a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (42).jpg",
+          "sha256": "f6e831d3a7e09e68016154162a08acb08db33b56aeb143dde1e0c65e371d294c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (44).jpg",
+          "sha256": "a1f8fd2adf913a6c0a6a819e1b5c414c53ce2eb946f76d43f4c92cde95fe8aa8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (24).jpg",
+          "sha256": "130bd713364e2aa962d283e2bf292bb909aa63c3f581f59b7f307b58e687bd32"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (2).jpg",
+          "sha256": "8f91a7551709b5b094de9c3b88b1d67923d1c71063184bcb6d260c3acfcfdc77"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (36).jpg",
+          "sha256": "07e8cfaa7f88e49525d228b7fbf1bec95a5ebad02e14839cd71016d8f7af4a09"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (55).jpg",
+          "sha256": "46fb829c48c9ca2a46b0a219e04d1b00aa2824929e0c9b956f27e253fdc88298"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (39).jpg",
+          "sha256": "3acc472b61b37b5cf91d439ecd06b58a513fb265f6d692abd4a6dd45bd71b572"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (15).jpg",
+          "sha256": "93835d2e93f4cd7a8ce99cf2b169d34c393c8e9f5ac5d2cd1f5fec3f3d6c7906"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (22).jpg",
+          "sha256": "fcc6670baa62204722b8957c0dd35022d6dc959dffa07034980d51bc62836760"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (28).jpg",
+          "sha256": "f5ccdd11cfa85c8025f154d0e8752eb31d635e3ae9568b5a38443186a656b7aa"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (26).jpg",
+          "sha256": "833c6a06383e2c45951fe404b9e6eece6c817a3cb25f556272948152089c8a5a"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (48).jpg",
+          "sha256": "6a2d8e935a2ca15995c4544656c7387577dfdc8aa9b4a209be069ccc7a019a79"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (11).jpg",
+          "sha256": "d2252ebeb7b6f1511db9f315958d84566eae3ff9aeb3ec5ecab4dc458dac9486"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (6).jpg",
+          "sha256": "ff8c03ad22f5ed747c36dbe860270dbcfea63c1cd46f20349ef5c1e3ec45b225"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (38).jpg",
+          "sha256": "5b0f161f144eb88b80bfabdc5c58771d674ecc7fed31f3be8134c57312adb47d"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (20).jpg",
+          "sha256": "4cb1c4bb33db7b519c0dee47d2a0dac9d885a448b0bc8efaf71724d98766814c"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (25).jpg",
+          "sha256": "28d3ec0d9941572f116986905b6676b4ac0dd6d590419333c412796f439b6d0c"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (17).jpg",
+          "sha256": "e3c2980f1a93094b8a81a8d3b9d01d2008d480b623538d277315a65941f06aa6"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (30).jpg",
+          "sha256": "c136e45f1e595abdd829afba9624af7d36104e9f369b459cc1034e754edd174e"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\images (2).jpeg",
+          "sha256": "92275c51c9312c8d20d72115443a32032175743022e8c3d49643349f3f42eb28"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (4).jpg",
+          "sha256": "6a60986d2293329d62ed9dbdb851f02db3237fa7bb663dcfd3b50b252d228b29"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (41).jpg",
+          "sha256": "ef88ab35e1bef908893037f3b102e8f64ea44095586017fc5ba897b8f9828e53"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (50).jpg",
+          "sha256": "ad31da7d07f1a465c38a44374b32ffd827643cc1fe09aa3579d1d83aa1c81992"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Burn\\burn\\burns (12).jpg",
+          "sha256": "f9d8f8fbb6b4bb7ef5e72f59dcf9cdfa29a8faeb12ce2d809790f612253ea5af"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Burn\\burns (52).jpg",
+          "sha256": "bba62d7973fdf4634a3f2e69e35911da5ef07d30109d3f731610c321d2665921"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (8).jpg",
+          "sha256": "30d0452526e77c963a84a209f03f3c1bd7b56d102b4e0928e07e3733f0bab7c5"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (18).jpg",
+          "sha256": "8c4e755061f95534be08b19b4b3ba88827919893ea11957b97532654d8639fd5"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (35).jpg",
+          "sha256": "8f8dc6490e9f83676ef14fbf4b303da327aecfaa5b6c06e8f2f472b5ab996b1d"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Burn\\burns (5).jpg",
+          "sha256": "b92d88cff9212726f8410ff3e205cd2298257905f8f30a1521304657e29f93e8"
+        }
+      ]
+    },
+    "Cut": {
+      "unique": 52,
+      "train": 36,
+      "validation": 8,
+      "test": 8,
+      "source_files": [
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (32).jpg",
+          "sha256": "d90547ab58a54cbdc6b4279eb4cdb2e6a82b2fe6062710f457c296f1de97d579"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (22).jpg",
+          "sha256": "0613dd54e19c167f76a7b8b9c938cb6cb34a90e778cc7da1abae08ac92a49a73"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\cut (30).jpg",
+          "sha256": "564c82f5961a2cbd587e4c71015ea7d428867eff2245dcb671003a19b4c61eda"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (35).jpg",
+          "sha256": "74910fc7c01e9c772055b68d363018fc60288375a651c834747ecb1b510f98a0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\cut (29).jpg",
+          "sha256": "9e71d732db27605859682ea1659c7adf9447ca99926421068ef12304397d7520"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (13).jpg",
+          "sha256": "bef2a30b8e1938bbe056c3d483bbf8c6081a93c629a4d9d2fe27937f48a29237"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (9).jpg",
+          "sha256": "5cecb814545130f25301b757293a8203dd0d1189bf27758dac2fdcd9aacf6cf5"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\images (4).jpeg",
+          "sha256": "bf09322af75968d8e5bdf20671f90bacf3c61b2def9ffeb4b810f4cf301823e2"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (15).jpg",
+          "sha256": "f6bf4c7d808639990755ce296e97f3e7f6f1135e3bc5d29271446f00ddea4ec0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (48).jpg",
+          "sha256": "8b16c0e8bf4fed4b81eb5582f9dca7f37d18b87904d9fb39e728f064f04e27a0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (18).jpg",
+          "sha256": "3b5b8348e6eac2a42e2e526dde6086645be8b8c71e195d6bba9637bdd4ffa8b1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (5).jpg",
+          "sha256": "7aa444f6c9f8a5dbdff560b6e6515a526543075821377198c12e819bee91f391"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\cut (25).jpg",
+          "sha256": "6530df06fde7e742fd539e8cce61f5cf3aef93adbae0cc092aac7104a487390a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (45).jpg",
+          "sha256": "0394c50396789978d6ca68b6b479cd634ccf6d392c174fba786f4464a3edac16"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (34).jpg",
+          "sha256": "d83e1e7d60ff55d9a0ffcc1ba54eb1c6a6372bf9668936dccd0e664678b8cf73"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (12).jpg",
+          "sha256": "2d57199334534abc11cd72bd39487889c6d1a4952599845363562c66c89ecedd"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\cut (27).jpg",
+          "sha256": "241efe1a402806ac8a20963c82b2abc7cb92239b5a4664b7e6c833cf5936c825"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (1).jpg",
+          "sha256": "ff030cfb5da3bd095b2d883e73865177f13b7fb516f5e5fe1d57187cabd6ad45"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (38).jpg",
+          "sha256": "42e860235ec70210717df87feba901ef36f2ae67ffa99894ba0fb34b3d9cbc1f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (17).jpg",
+          "sha256": "18e38b39c76ceece921f0467dcb74e9acd51817c1e3a25cb2b5f33af04d6bd6a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (49).jpg",
+          "sha256": "9ed2533f1b4c21d139c47929a0bd2981f2969b894385e11de8ce959222426b8c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\cut (26).jpg",
+          "sha256": "c8edaa41ef62e0172bf613648ecc43c0f9b266e1687b725beabad35a4efee891"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (44).jpg",
+          "sha256": "736e81d7756124436ea611838f76b84745d17b146f119d1362562437c1908def"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (10).jpg",
+          "sha256": "ee9adf3363285f39f63aaff8e917b6d782d1dfc4ba3e559dc4d03a0117d100e8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (23).jpg",
+          "sha256": "0e6d69cfd1f184fd73009b8032a1d6f9550d426d6cbaba73612e772c077c8d2b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (41).jpg",
+          "sha256": "31b04c4a8129d4c4e0133db7f0f5f972b38c756758162e8bc12c8c0c7a5a7269"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (14).jpg",
+          "sha256": "a5c54564f049f6a314b8550b5d49aca1c09526418315350af7280e704b14164d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (33).jpg",
+          "sha256": "502a930239c4ee567a2ae867696eb93bdc967a40b2cbf10e3778311c59b4a836"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (42).jpg",
+          "sha256": "4e67afe09feb82d3a577feb7953da6501b7a0bfc8d47f1315024545b31c64f6f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (46).jpg",
+          "sha256": "1a64cffedd28140b2f9d2f9ef51f913f466d4de6ba06ca9682f2fa10d852c7cc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\images.jpeg",
+          "sha256": "3008ede8ce5615f46aa4cda78e9eb91597d67f1682b98af9ba0f6a021d899cbc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (2).jpg",
+          "sha256": "cf6d7b25afb9a70a1b2460ec2b2d85c0e17146697f879fcdb3cb27661b0b8d96"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\cut (28).jpg",
+          "sha256": "d6e3931320db936b7775eef25628805a3fff1f52bf3a11d1dd7cd8668258576a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (43).jpg",
+          "sha256": "339f27dcd104e8e9faab4067a3a4ca9b4015f9047afca221556c0f14bfb421c2"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (21).jpg",
+          "sha256": "9e60fc39b321dd88a08b865132c3fc079b1ade475bb9fcb13e05e677c2bb70d1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (36).jpg",
+          "sha256": "0d0cc4472d3e09f8b37aeff01e879b366e0a43818bd362f37f26c16fcc136b03"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (16).jpg",
+          "sha256": "d825cf8313b94ed6af61b038a632a1e4f4a07282a66c8f23dedac624d1288250"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Cut\\cut (31).jpg",
+          "sha256": "aa4749f5a187817d6f7146513e1e298258973867b04d1133b5aead1029eee126"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (11).jpg",
+          "sha256": "129d9209c978fd28397d6056b34d52b6bc7296e51fb72d4a1674670af2b10e6c"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (19).jpg",
+          "sha256": "5316413665efbd5fa2601adf2803af28f886ba2800c5b333b0c69c98ba3436ff"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (6).jpg",
+          "sha256": "b50d67a1d7f6b1a67bcc208ff6a1a549ba9ef5643e7b77479921f1b60fd805a5"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (20).jpg",
+          "sha256": "2172e6dca0411a13cf608f71c7313774c0a26424b56f6eb6f2b80f975237652d"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (50).jpg",
+          "sha256": "f75ee2cf6962eabe1c88199e5f909557d7576cd708aa9b078458fc145c1e2f29"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (37).jpg",
+          "sha256": "797e05c30e73659a2e9e7e4b34ce4459d638a343cae46f2fb46378c1df472972"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (8).jpg",
+          "sha256": "85d99020150b1811761dc9e85748bef03c5fde864ec64c8ddcd215770a5a3e81"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (4).jpg",
+          "sha256": "d254890e2db02be14aeaa8063b48668b901b9a0e762833214118be939d0a4c15"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (40).jpg",
+          "sha256": "898aac404e9216ffbcf8967c9d07dea3a2e5643a27b15277c2cd6a219b30e853"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (3).jpg",
+          "sha256": "02b1d01d7e507ddb4875ff74ace53b1f5b8d1c906c8502177720f65c848d9dcf"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (7).jpg",
+          "sha256": "96ddf9b1cd8a6a1cc07e5ab5b98617644b78de967ca16c3145f11c97b0b7fc23"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (47).jpg",
+          "sha256": "6ee4ac301866d110effa47c3ebfb3f686594bebc55b4bbed605717d06a008ee8"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Cut\\cut (24).jpg",
+          "sha256": "6f876fd4e00bd3b51e70ef23e5de6703dbee14e9d100b200ab6856e8f5cd8d3e"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Cut\\cut (39).jpg",
+          "sha256": "5214bf7f4c49fd710a0889e0220100d93b9323ab90b8d9b227f31f760b9de7cf"
+        }
+      ]
+    },
+    "Laceration": {
+      "unique": 52,
+      "train": 36,
+      "validation": 8,
+      "test": 8,
+      "source_files": [
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (41).jpg",
+          "sha256": "e60f793fee622e40dedf66b5edf62906bdc64ed3ebaa6a2fd126eb1acdb11a2f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (28).jpg",
+          "sha256": "c224616b3317c09dc71a8771326516e3e014569d1dec43b7fa6ac7cdec6b3f6e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (38).jpg",
+          "sha256": "5c13e049a6da2c65e99e76c6667084e4f76dcf6ef06f11786e63824b57daaa4d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (47).jpg",
+          "sha256": "3a4a07be80e58984a5358da77e30a214c1f8d6e00c021774b783179730493cd0"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (43).jpg",
+          "sha256": "a9b24e79816f2a212692645a087e94f6137b84dcc42f1d8b1aef1dc940de46e7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (7).jpg",
+          "sha256": "3ff7d846421d59ff8d0851eb8ab6dccc75c22a610f16830864ca352511d8e47e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (29).jpg",
+          "sha256": "b25ee5b3352002043782a7075d977580f1ed1d5759673f33ed785b33f34f46de"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (4).jpg",
+          "sha256": "66704cd9dccccc9111f77c7d405858ff2fe3d30a496f46bc19d4b2798d48b61b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (25).jpg",
+          "sha256": "ed438b957c5930e2b583c26f160cd5b9b4f3cb9408c9ab6b152a3412d3cc3749"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (42).jpg",
+          "sha256": "27cb6c487fa9858b1ac20b282b2240ab1912b6669f3de5da22b06090d1118c42"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (34).jpg",
+          "sha256": "123fa5ce38922a353af84be302c5cb47dc10dfb3e97f22933fa3caf3b5b1d654"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (58).jpg",
+          "sha256": "750cde3be5d1b09ae4d24a48f9941f25e232862f48035ca98c8eca1965b51e70"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (51).jpg",
+          "sha256": "ccefd47311b5b97b8c3d4d532a6dd99e68a541bcdb052dc3cdc4eda275bfa483"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (31).jpg",
+          "sha256": "0747bcf16170ada8e358bfbe76e7ba089bd6d488cd8388d111b905033fae02d8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (33).jpg",
+          "sha256": "6cbc9b5930720c6b7bcf858067a53ca4858c9a64bc1ecd48242ff296e690c519"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (54).jpg",
+          "sha256": "85237e9374c1cc9274c9c8b72701ca461ef9b5e59746205174986978736ce1ee"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (35).jpg",
+          "sha256": "88de6642c582a6837b236cd3a3cc59fdf04fb393a47bc286b11e69f4f8c0ebbb"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (24).jpg",
+          "sha256": "cfd496a6bf985088f743983cb91a2608a535137755141e7629b708f08dcaf6eb"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (22).jpg",
+          "sha256": "1c400d0ecf5e9d7920fad9137fdd3b885325a86ba55f8e181fb8701c5635bea8"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (48).jpg",
+          "sha256": "ec78a3d43aedd7492cfcdc0f03fce787944eeeb325e4544fd1e92f3ea1b697b3"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (37).jpg",
+          "sha256": "1d50c3d3da6558dfa83ccb11bdc061bf71460afc99ae9f6675e1cb2aece77688"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (20).jpg",
+          "sha256": "a5439de8bfe3d276a5b4105d62b0eea36418eed9e3afe75f8c5de851c0f3a797"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (52).jpg",
+          "sha256": "891e8eeb3e16c5602b33d6e93541ac98ae861b720888b29479674685f72c24f4"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (60).jpg",
+          "sha256": "23bb974654fc56f79baa1eab539c117279bba4be3904ee22fe3eee2d05a8b011"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (26).jpg",
+          "sha256": "8c7cd3136b5bfd27103e390d12af5c7b214983b41d139702536a97ed37810d1c"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (46).jpg",
+          "sha256": "23675cf3bdfaa12badd2c42a52145448571646f158474f18d36602e7d7db8019"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (21).jpg",
+          "sha256": "7ec3667666d0b56f156bc0be96bde2a9f73f0e7a1a472d58cf39e06326115441"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (57).jpg",
+          "sha256": "3538692efd8b5ce43a06d86a81ab18b22904c5f9f3f80f4a31e4277a2d7b388a"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (3).jpg",
+          "sha256": "07dad6dea499981a4b1e437a2b38683c76fb28ee5993c46c809c767f93ce9f04"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (39).jpg",
+          "sha256": "ed1c1b93b47378b482d06a1ef16f62f069f3641889cec4d1a7b6a1801ad7aa6e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (40).jpg",
+          "sha256": "c00557de32c116a097ea8544ec100ad5b832896a999b650661bbb88d5052ed9f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (5).jpg",
+          "sha256": "cc96b433ce7094de72f14979f8f25d679c612bd337e0f82fe1c1884a9ef6591d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (9).jpg",
+          "sha256": "e07f18d523f57807ed7bade874eb1a70ab22684576d47e71e370c31c07b58128"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (50).jpg",
+          "sha256": "13fc9ae21d210b73a7249571ac75fa19b36a848a22cc75d9b7866c88babf7763"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (1).jpg",
+          "sha256": "7c85830deb111c96081165c41e6f6ed893e2e1acb867fb46ee5f8120ab0dc507"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (45).jpg",
+          "sha256": "cbd8112ff086eb23d5ee37bb9d4f580037cc15b086fcf54949743554948491d9"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (30).jpg",
+          "sha256": "2d2db327ad48b332701a79e4c7b55c955f24ab903fac3b0e29a55a3d8afdd64a"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (6).jpg",
+          "sha256": "a1bd2664686d4165266243c92c252c146212be2e1f8d76eb0382e2dd105479b5"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (10).jpg",
+          "sha256": "16f01e056699ae3f65ce080b13127bb57ef547559fcfe8f99fcc4775aebb55aa"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (32).jpg",
+          "sha256": "7b97b824159b01fa8d6cb7a6f4b017b35e8a6a928cf7e06372f70357d4e24319"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (61).jpg",
+          "sha256": "4535104448e395f105d34460148103f1d91767d66910a56a96234793ffcf2271"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (56).jpg",
+          "sha256": "822b73e84a27f671c57cf8d0e3aeabba327895195c40fe3269c33564770b7876"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (8).jpg",
+          "sha256": "393a4a73cd6ba67692847ce7e6dd689741f87a655aa0d26912ae2f87ec15bb00"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (59).jpg",
+          "sha256": "30147d634d5822cd1d96a386f3bdcb316c7c8351a4760e80071e8a4d6aaa34f8"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Laceration\\laseration (36).jpg",
+          "sha256": "a80ea8a4304fda0bb47bd59388820e2a1aee080718e87c47756acbfde06460b8"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (23).jpg",
+          "sha256": "8053dc3fec421273fc311bcbffe43ba7204b244e642c2ea720961cc5e2032114"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (49).jpg",
+          "sha256": "80d47d381446b5b834d1b1369c6e6fd5f228b1b69aded591d0418ca20e5199f1"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (55).jpg",
+          "sha256": "43aff30597ddc5eb798aafb2ffa0044749b8d14f3ff38ced59792a1b07af9d34"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (53).jpg",
+          "sha256": "72c102842b71c6f2c611d1e9e651af6f69f7cdc7f34e946948e37b2890dc46da"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (2).jpg",
+          "sha256": "6a9fb8c5ce3ba1e6c1ffdd02cd68e272b04d68aa3121677b94649c0bf46cd57b"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Laceration\\laseration (44).jpg",
+          "sha256": "2fb703091dbbbe49e714c06cea29f56483e1fc1ea6800e079e9a6c98c1db7be8"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\validation\\Laceration\\laseration (27).jpg",
+          "sha256": "c5f5a92bfdd09ff6607648797e76a8866cba911551f4b9279c9a72ec262992e6"
+        }
+      ]
+    },
+    "Stab_wound": {
+      "unique": 23,
+      "train": 16,
+      "validation": 3,
+      "test": 4,
+      "source_files": [
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (5).jpg",
+          "sha256": "a280b353acc49991274294864cb8d22d4594b3007b7ea864f63a72148bd8814d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (7).jpg",
+          "sha256": "7ef5a1a6a610a782a695cc617c609505ba97466d84870979d4930411a8d0880d"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (19).jpg",
+          "sha256": "4e34465a4b31c04f9a764e7aeed1ecbb244bd026efd2b721dc1013f8dd62b35b"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (1).jpg",
+          "sha256": "94bcab3a3bf6370225234abd46756c20507350795a69a8c6a5fb33cb26cd6a75"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (4).jpg",
+          "sha256": "165ceca1234f231eb75f7d6f45f9947156b7b6fd6c47fb9a333f9896be9128f7"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (13).jpg",
+          "sha256": "577f648c0de9c7391cd99a601677a31d625c78ad285bcd478d8366483b71ea34"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (6).jpg",
+          "sha256": "fc61fd8b8fbdd460fdbd2b8f13ce351abe109131d437a3bc566917ba2ea4b0cc"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (22).jpg",
+          "sha256": "beed4bad2d9a5fc120a061d532122ba36e33d11293766fce9a593d6bda19b002"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (20).jpg",
+          "sha256": "d87d076527ee5146a6db1813261baff8907c37462b5531ccefc8baa2c6c93ab9"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (3).jpg",
+          "sha256": "0173da6c4dc5c8acd64975f8df7f51b943702ac7b829f2eab94f415b9a1656e4"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (2).jpg",
+          "sha256": "b1685c5334a5b6c328c19f6cf6250d542a3a07f6dd56189abb2942fcc0cb33ed"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (11).jpg",
+          "sha256": "98e94246e5290c0b8de7a8afede6b3b57facb273034e44e4d940cbde4a005f3f"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (18).jpg",
+          "sha256": "90ab3df36b89db026ba41d3f9af2bb126ab2410fb37b457915ae42efe3aeba2e"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (17).jpg",
+          "sha256": "ee7b8708c908c5543cd5f9b0d465fa522bd6fb2a67ea9fa10be1a24dc1bea191"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (12).jpg",
+          "sha256": "8dfb7939b84b08a6876a453948f58c5967fed4d666d2faa4677684f665935de1"
+        },
+        {
+          "split": "train",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (9).jpg",
+          "sha256": "b339319d73b284adfb0faec85e293f972c83abfc6b4378e43415d22d17a1b132"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (10).jpg",
+          "sha256": "503eeebb7958a9d533d0cca99be1574b7de0e33db1d125025b0247b737d7159d"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (8).jpg",
+          "sha256": "73a7b7e95d98e2e76049f9ec0c1c0b82a97ad3f68c3bb9d0cb4ee44bb7abf59b"
+        },
+        {
+          "split": "validation",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (21).jpg",
+          "sha256": "ed3a001fff755ee012e4fd71e133e9506790e4bcbebca15ef4a37932da8f49e9"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\test\\Stab_wound\\stab_wound (14).jpg",
+          "sha256": "37a233f1e8501d05f5448a855bfc1998f06e75a73422cf3545008f29138bb21f"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (15).jpg",
+          "sha256": "acf4be0f58f08358c2963b92d28e837b4f5ed529ac76ee584bbdeeee7bdf2e2f"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (23).jpg",
+          "sha256": "c81671c0506e1936beb783e5662da0013942d63cd1252502395c4c41121ef0c5"
+        },
+        {
+          "split": "test",
+          "source": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset\\train\\Stab_wound\\stab_wound (16).jpg",
+          "sha256": "132a04c13bf5c343afc9419589326a98f0f8dc7c1ec139b4f8cb0a006e3ed350"
+        }
+      ]
+    }
+  }
+}

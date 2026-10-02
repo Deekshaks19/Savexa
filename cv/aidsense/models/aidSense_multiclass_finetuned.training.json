@@ -1,0 +1,61 @@
+{
+  "created_at_utc": "2026-08-24T14:54:11.761745+00:00",
+  "python": "3.12.0",
+  "tensorflow": "2.21.0",
+  "dataset": "C:\\Users\\Deeksha k s\\Downloads\\savexa_clean\\savexa_project\\cv\\aidsense\\dataset_clean",
+  "class_names": [
+    "Burn",
+    "Cut",
+    "Abrasions",
+    "Bruises",
+    "Laceration",
+    "Stab_wound",
+    "Animal_bite"
+  ],
+  "input_shape": [
+    224,
+    224,
+    3
+  ],
+  "train_images": 310,
+  "validation_images": 67,
+  "epochs_requested": 5,
+  "epochs_completed": 5,
+  "batch_size": 16,
+  "optimizer": "Adam",
+  "learning_rate": 1e-05,
+  "loss": "SparseCategoricalCrossentropy",
+  "layers_unfrozen": 20,
+  "batch_normalization_layers_frozen": true,
+  "training_seconds": 44.10721939999985,
+  "history": {
+    "accuracy": [
+      0.7580645084381104,
+      0.8096774220466614,
+      0.8064516186714172,
+      0.8645161390304565,
+      0.8806451559066772
+    ],
+    "loss": [
+      0.7629616260528564,
+      0.6069268584251404,
+      0.591704249382019,
+      0.503299355506897,
+      0.4856036305427551
+    ],
+    "val_accuracy": [
+      0.5671641826629639,
+      0.5522388219833374,
+      0.5522388219833374,
+      0.5223880410194397,
+      0.5223880410194397
+    ],
+    "val_loss": [
+      1.2345669269561768,
+      1.2180557250976562,
+      1.200150966644287,
+      1.1877660751342773,
+      1.1789283752441406
+    ]
+  }
+}

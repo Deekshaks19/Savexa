@@ -1,0 +1,19 @@
+file,predicted_class,maximum_probability
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203849.png,Bruises,0.6398546695709229
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203853.png,Bruises,0.27723217010498047
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203858.png,Abrasions,0.3696282207965851
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203904.png,Bruises,0.6078484058380127
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203910.png,Cut,0.41601037979125977
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203916.png,Cut,0.3701528310775757
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203928.png,Cut,0.2801559269428253
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203952.png,Cut,0.4995710849761963
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 203956.png,Bruises,0.4688379466533661
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204001.png,Burn,0.34330978989601135
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204031.png,Cut,0.519160807132721
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204046.png,Bruises,0.4724861681461334
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204106.png,Burn,0.30766549706459045
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204116.png,Burn,0.3350101709365845
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204126.png,Bruises,0.2951144576072693
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204132.png,Burn,0.35364627838134766
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204138.png,Bruises,0.6816834211349487
+cv\aidsense\evaluation\negative_images\Screenshot 2026-08-24 204145.png,Cut,0.3410765528678894

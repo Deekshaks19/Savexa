@@ -1,0 +1,8 @@
+actual\predicted,Burn,Cut,Abrasions,Bruises,Laceration,Stab_wound,Animal_bite
+Burn,6,0,1,2,1,0,0
+Cut,2,2,1,1,2,0,0
+Abrasions,2,0,7,1,2,0,1
+Bruises,1,2,0,15,0,1,0
+Laceration,1,0,0,0,4,3,0
+Stab_wound,0,0,0,0,0,4,0
+Animal_bite,0,0,0,4,0,2,1
